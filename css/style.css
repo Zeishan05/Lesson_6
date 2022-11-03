@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+header{
+	font-family: Lato;
+	font-weight: 900;
+	font-size: 46px;
+	background-color: brown;
+	max-width: 900px;
+	min-height: 100px;
+	margin: 0 auto;
+	text-align: center;
+}
+#hr {
+	font-family: Lato;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 60px;
+	text-align: left;
+	max-width: 800px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+	color: #1E212C;
+}
+.imgly {
+	border-radius: 4px;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+.vulpuly {
+	max-width: 810px;
+	min-height: 90px;
+	margin: 0 auto;
+}
+.vulpu {
+	font-family: Lato;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	color: #1E212C;
+}
+.text {
+	max-width: 810px;
+	min-height: 182px;
+	margin: 48px auto;
+}
+.amet {
+	font-family: Lato;
+	font-weight: 400;
+	line-height: 26px;
+	color: #424551;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.loremly {
+	max-width: 750px;
+	min-height: 120px;
+	margin: 0 auto 48px auto;
+}
+.lorem {
+	font-family: Lato;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+.mauris {
+	max-width: 810px;
+	min-height: 52px;
+	margin: 0 auto 24px auto;
+}
+.listly {
+	max-width: 600px;
+	min-height: 116px;
+	margin: 24px auto;
+}
+.list {
+	font-family: Lato;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 2;
+	color: #424551;
+}
+footer {
+	font-family: Lato;
+	font-weight: 900;
+	font-size: 46px;
+	background-color: rgb(54, 42, 165);
+	max-width: 900px;
+	min-height: 100px;
+	margin: 0 auto;
+	text-align: center;
+}
+.ipsum {
+	background: rgba(255, 0, 0, 0.507);
+	border: 5px solid #000;
+	max-width: 600px;
+	font-family: Lato;
+   font-weight: 900;
+   font-size: 46px;
+	margin: 0 auto;
+}
+.dolor {
+	background: rgba(255, 0, 0, 0.507);
+	outline: 5px solid #000;
+	max-width: 600px;
+	font-family: Lato;
+   font-weight: 900;
+   font-size: 46px;
+	margin: 20px auto;
+}
+.radius {
+	background: rgba(255, 0, 0, 0.507);
+	max-width: 600px;
+	margin: 0 auto;
+	border: 5px solid #000;
+	border-radius: 30px;
+}
+.shadow {
+	background: rgba(255, 0, 0, 0.507);
+	max-width: 600px;
+	margin: 50px 0 50px 300px;
+	box-shadow: 2px 2px 3px 5px green;
+}
+.shadowly {
+	background: rgba(255, 0, 0, 0.507);
+	max-width: 600px;
+	margin: 50px 0 50px 300px;
+	box-shadow: inset 5px 2px 3px 5px green;
+}
+.opacity {
+	background: rgba(255, 0, 0, 0.507);
+	max-width: 600px;
+	margin: 50px 0 50px 300px;
+	opacity: 0.5;
+}
+.visibility {
+	background: rgba(255, 0, 0, 0.507);
+	max-width: 600px;
+	margin: 50px 0 50px 300px;
+	visibility: hidden;
+}
+.bg {
+	background: rgba(19, 156, 38, 0.507);
+	border-radius: 10% 30% / 50% 70%;
+	margin: 50px 0 50px 300px;
+	width: 600px;
+	height: 200px;
+	box-shadow: inset 5px 5px 10px rgb(157, 255, 0);
+}
+.click {
+	background: rgb(255, 187, 0);
+	margin: 50px 0 50px 300px;
+	width: 160px;
+	height: 50px;
+	font-family: Lato;
+   font-weight: 700;
+   font-size: 46px;
+	text-align: center;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #000;
+	border: 2px solid #000;
+}
+
+.click:hover {
+	border: 4px solid #000;
+	}
+.figura {
+	background: rgba(19, 156, 38, 0.507);
+	border-radius: 50%;
+	margin: 50px 0 50px 300px;
+	width: 200px;
+	height: 200px;
+	box-shadow: 5px 5px 10px rgb(157, 255, 0);
+}
